@@ -2,10 +2,10 @@
 
 # start
 
- docker-compose up -d 
- docker exec -it broker bash 
- After run command by command lines from create_topic.sh 
- Now you can write and read from Kakfa
+ docker-compose up -d   
+ docker exec -it broker bash  
+ After run command by command lines from create_topic.sh   
+ Now you can write and read from Kakfa  
 
 # I need to create consumers 
 
